@@ -1,6 +1,6 @@
 # Data Visualization using pandas, numpy, matplotlib and seaborn libraries
 
-# tmdb_repo_data_visualization
+# TMBD Movie database: Data Visualization
 
 **Install**
 - [NumPy](http://www.numpy.org/)
